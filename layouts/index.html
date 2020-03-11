@@ -1,0 +1,21 @@
+{{ partial "head" . }}
+  <body>
+    <div id="wrap">
+      {{ partial "header" . }}
+      <section id="about">
+        <div class="container">
+        <div class="avatar">
+          <img class="img-circle" src="{{ .Site.BaseURL }}img/{{ .Site.Params.avatar }}" alt="Responsive image">
+        </div>
+        <h3 class="headline">I'm <strong>{{ .Site.Params.author }}</strong></h3>
+        <h4>I do lots of <a href="https://github.com/{{ .Site.Params.Social.Github }}/">Open Source...</a></h4>
+        <h4>about Mobile and Machine Learning/Deep Learning, Python, Go, Docker, Kubernetes, etc.</h4>
+        <h4>Senior Software Engineer at <a href="https://www.mimecast.com/" target="_blank">Mimecast</a></h4>
+        <h4>Some of the tools I have created which you can find <a href="{{ .Site.BaseURL }}projects/">here</a></h4>
+        {{ partial "social.html" . }}
+        </div>
+      </section>
+    </div>
+    {{ partial "footer" . }}
+  </body>
+</html>

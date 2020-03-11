@@ -1,0 +1,53 @@
+name: Projects
+source:
+  - name: authenticatorpy
+    link: https://github.com/abdullahselek/authenticatorpy
+    description: Generate 2FA tokens like Google Authenticator.
+
+  - name: HerePy
+    link: https://github.com/abdullahselek/HerePy
+    description: A Python wrapper around the HERE APIs.
+
+  - name: ReducePy
+    link: https://github.com/abdullahselek/ReducePy
+    description: Url shortener service using Tornado and Redis runs on Docker and Kubernetes.
+
+  - name: plant-disease-classification
+    link: https://github.com/abdullahselek/plant-disease-classification
+    description: Disease classification on different plants with using Machine Learning and Convolutional Neural Networks.
+
+  - name: koolsla
+    link: https://github.com/abdullahselek/koolsla
+    description: Food recommendation tool with Machine learning.
+
+  - name: spampy
+    link: https://github.com/abdullahselek/spampy
+    description: Spam filtering module with Machine Learning using SVM (Support Vector Machines).
+
+  - name: facereg
+    link: https://github.com/verifid/facereg
+    description: Python module for face recognition with OpenCV and Deep Learning.
+
+  - name: mocr
+    link: https://github.com/verifid/mocr
+    description: Meaningful Optical Character Recognition from identity cards with Deep Learning.
+
+  - name: ASCollectionView
+    link: https://github.com/abdullahselek/ASCollectionView
+    description: Lightweight custom collection view inspired by Airbnb.
+
+  - name: Swifty360Player
+    link: https://github.com/abdullahselek/Swifty360Player
+    description: iOS 360-degree video player streaming from an AVPlayer.
+
+  - name: ViperC
+    link: https://github.com/abdullahselek/ViperC
+    description: Xcode template for VIPER Architecture for both Objective-C and Swift.
+
+  - name: SwiftyMessenger
+    link: https://github.com/abdullahselek/SwiftyMessenger
+    description: Swift toolkit for passing messages between iOS apps and extensions.
+
+  - name: Merhaba
+    link: https://github.com/abdullahselek/Merhaba
+    description: Bonjour networking for discovery and connection between iOS, macOS and tvOS devices.
