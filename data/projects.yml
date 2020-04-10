@@ -51,3 +51,11 @@ source:
   - name: Merhaba
     link: https://github.com/abdullahselek/Merhaba
     description: Bonjour networking for discovery and connection between iOS, macOS and tvOS devices.
+
+  - name: SwiftyNotifications
+    link: https://github.com/abdullahselek/SwiftyNotifications
+    description: Highly configurable iOS UIView for presenting notifications that doesn't block the UI.
+
+  - name: SwiftyMessenger
+    link: https://github.com/abdullahselek/SwiftyMessenger
+    description: Swift toolkit for passing messages between iOS apps and extensions.
