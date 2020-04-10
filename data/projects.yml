@@ -59,3 +59,7 @@ source:
   - name: SwiftyMessenger
     link: https://github.com/abdullahselek/SwiftyMessenger
     description: Swift toolkit for passing messages between iOS apps and extensions.
+
+  - name: Lighty
+    link: https://github.com/abdullahselek/Lighty
+    description: Easy to use and lightweight logger for iOS, macOS, tvOS, watchOS and Linux in Swift.
