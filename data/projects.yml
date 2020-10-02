@@ -6,7 +6,7 @@ source:
 
   - name: HerePy
     link: https://github.com/abdullahselek/HerePy
-    description: A Python wrapper around the HERE APIs.
+    description: A library that provides a Python interface to the HERE APIs.
 
   - name: ReducePy
     link: https://github.com/abdullahselek/ReducePy
