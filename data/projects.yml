@@ -67,3 +67,7 @@ source:
   - name: Lighty
     link: https://github.com/abdullahselek/Lighty
     description: Easy to use and lightweight logger for iOS, macOS, tvOS, watchOS and Linux in Swift.
+
+  - name: TakeASelfie
+    link: https://github.com/abdullahselek/TakeASelfie
+    description: An iOS framework that uses the front camera, detects your face and takes a selfie.
