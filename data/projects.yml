@@ -12,8 +12,8 @@ source:
     link: https://github.com/abdullahselek/ReducePy
     description: Url shortener service using Tornado and Redis runs on Docker and Kubernetes.
 
-  - name: plant-disease-classification
-    link: https://github.com/abdullahselek/plant-disease-classification
+  - name: plant-disease-classification-tf
+    link: https://github.com/abdullahselek/plant-disease-classification-tf
     description: Disease classification on different plants with using Machine Learning and Convolutional Neural Networks.
 
   - name: plant-disease-classification-pytorch
