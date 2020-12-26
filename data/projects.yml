@@ -20,6 +20,10 @@ source:
     link: https://github.com/abdullahselek/plant-disease-classification-pytorch
     description: Disease classification on different plants with using Machine Learning and Convolutional Neural Networks with PyTorch.
 
+  - name: plant-disease-classification
+    link: https://github.com/abdullahselek/plant-disease-classification
+    description: A Python module that classifies disease on plants.
+
   - name: covid-19
     link: https://github.com/abdullahselek/covid-19
     description: Time Series Forecasting of COVID-19 using Recurrent Neural Networks.
