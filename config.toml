@@ -61,7 +61,7 @@ disableHugoGeneratorInject = false
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Abdullah Selek"
+  # homeSubtitle = "Abdullah Selek"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
@@ -180,6 +180,6 @@ disableHugoGeneratorInject = false
 
 [languages]
   [languages.en]
-    subtitle  = "Abdullah Selek"
+#    subtitle  = "Abdullah Selek"
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
