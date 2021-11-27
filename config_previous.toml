@@ -1,0 +1,30 @@
+baseURL = "https://abdullahselek.netlify.com/"
+languageCode = "en-us"
+title = "Abdullah Selek"
+# Enable comments by entering your Disqus shortname
+disqusShortname = ""
+# Enable Google Analytics by entering your tracking code
+theme = "hugo-sustain"
+
+[permalinks]
+  post = "/:year/:month/:day/:slug"
+
+[params]
+  avatar = "profile.png"
+  author = "Abdullah Selek"
+  description = "I do lots of Open Source... about Mobile and Machine Learning/Deep Learning, Python, Go, Docker, Kubernetes, etc."
+
+[params.social]
+  Github        = "abdullahselek"
+  Email         = "abdullahselek@gmail.com"
+  LinkedIn      = "abdullahselek"
+  Twitter       = "abdullah__selek"
+  # Stackoverflow = "abdullahselek"
+  # Telegram      = "username"
+
+## Main Menu
+[[menu.main]]
+  name = "projects"
+  identifier = "projects"
+  weight = 200
+  url = "/projects/"
