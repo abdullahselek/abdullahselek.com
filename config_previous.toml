@@ -16,7 +16,7 @@ theme = "hugo-sustain"
 
 [params.social]
   Github        = "abdullahselek"
-  Email         = "abdullahselek@gmail.com"
+  Email         = "abdullahselek.os@gmail.com"
   LinkedIn      = "abdullahselek"
   Twitter       = "abdullah__selek"
   # Stackoverflow = "abdullahselek"
