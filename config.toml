@@ -176,7 +176,7 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "stackoverflow"
-    url  = "https://stackoverflow.com/story/abdullahselek"
+    url  = "https://stackoverflow.com/users/7677598/abdullahselek?tab=profile"
 
 [menu]
   [[menu.main]]
