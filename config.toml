@@ -55,13 +55,13 @@ disableHugoGeneratorInject = false
 
   # Metadata mostly used in document's head
   #
-  description = "Polyglot engineer, ML enthusiast, MSc candidate on AI"
-  keywords = "abdullah, selek, polyglot, engineer, developer, ML, AI"
+  description = "Polyglot Software and Machine Learning Engineer, MSc candidate on AI"
+  keywords = "abdullah, selek, polyglot, engineer, developer, machine learning, ML, AI"
   images = [""]
 
   # Home subtitle of the index page.
   #
-  homeSubtitle = "Polyglot engineer, ML enthusiast, MSc candidate on AI"
+  homeSubtitle = "Polyglot Software and Machine Learning Engineer, MSc candidate on AI"
 
   # Set a background for the homepage
   # backgroundImage = "assets/images/background.jpg"
